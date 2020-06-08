@@ -4,3 +4,9 @@ settings.json
 *.o
 build/*
 *.json
+
+cppnd-sysmon.code-workspace
+.devcontainer
+.vscode
+vscode
+.DS_Store
